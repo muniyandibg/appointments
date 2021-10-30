@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Drag and Drop Appointment Scheduling UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Drag and drop appointment scheduling ui created with React, React-Redux, and react-drag-and-drop package. [Live Demo](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
