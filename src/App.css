@@ -1,0 +1,9 @@
+.calenderContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.daysContainer {
+  display: flex;
+  justify-content: flex-start;
+}

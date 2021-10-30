@@ -1,0 +1,26 @@
+.appointmentContainer {
+  width: 150px;
+  background-color: white;
+  border-radius: 1px;
+  box-sizing: border-box;
+  border-top: 3px solid green;
+  box-shadow: 5px 5px 5px 0px #8a7676ba;
+  -webkit-box-shadow: 5px 5px 5px 0px #8a7676ba;
+  padding: 10px;
+  font-size: 12px;
+  z-index: 10;
+  opacity: 1;
+}
+.appointmentTimeDisplay {
+  font-weight: bold;
+  color: gray;
+}
+.appointmentTitleDisplay {
+  margin-top: 5px;
+  font-weight: bold;
+}
+.appointmentDescriptionDisplay {
+  margin-top: 5px;
+  font-weight: bold;
+  color: gray;
+}
